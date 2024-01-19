@@ -114,7 +114,7 @@ export async function updateModalData(eventId) {
 
 // console.log(galleryItems);
 
-import { micromodalslide } from './modal.js';
+// import { micromodalslide } from './modal.js';
 // Change code below this line
 
 const micromodalslide = document.querySelector('.micromodalslide');
